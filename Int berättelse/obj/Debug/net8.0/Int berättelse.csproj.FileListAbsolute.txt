@@ -1,0 +1,14 @@
+C:\Users\jacob.bergman\Documents\Prog 1\Interactiv berättelse\.vscode\interaktiv berättelse\Int berättelse\bin\Debug\net8.0\Int berättelse.exe
+C:\Users\jacob.bergman\Documents\Prog 1\Interactiv berättelse\.vscode\interaktiv berättelse\Int berättelse\bin\Debug\net8.0\Int berättelse.deps.json
+C:\Users\jacob.bergman\Documents\Prog 1\Interactiv berättelse\.vscode\interaktiv berättelse\Int berättelse\bin\Debug\net8.0\Int berättelse.runtimeconfig.json
+C:\Users\jacob.bergman\Documents\Prog 1\Interactiv berättelse\.vscode\interaktiv berättelse\Int berättelse\bin\Debug\net8.0\Int berättelse.dll
+C:\Users\jacob.bergman\Documents\Prog 1\Interactiv berättelse\.vscode\interaktiv berättelse\Int berättelse\bin\Debug\net8.0\Int berättelse.pdb
+C:\Users\jacob.bergman\Documents\Prog 1\Interactiv berättelse\.vscode\interaktiv berättelse\Int berättelse\obj\Debug\net8.0\Int berättelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob.bergman\Documents\Prog 1\Interactiv berättelse\.vscode\interaktiv berättelse\Int berättelse\obj\Debug\net8.0\Int berättelse.AssemblyInfoInputs.cache
+C:\Users\jacob.bergman\Documents\Prog 1\Interactiv berättelse\.vscode\interaktiv berättelse\Int berättelse\obj\Debug\net8.0\Int berättelse.AssemblyInfo.cs
+C:\Users\jacob.bergman\Documents\Prog 1\Interactiv berättelse\.vscode\interaktiv berättelse\Int berättelse\obj\Debug\net8.0\Int berättelse.csproj.CoreCompileInputs.cache
+C:\Users\jacob.bergman\Documents\Prog 1\Interactiv berättelse\.vscode\interaktiv berättelse\Int berättelse\obj\Debug\net8.0\Int berättelse.dll
+C:\Users\jacob.bergman\Documents\Prog 1\Interactiv berättelse\.vscode\interaktiv berättelse\Int berättelse\obj\Debug\net8.0\refint\Int berättelse.dll
+C:\Users\jacob.bergman\Documents\Prog 1\Interactiv berättelse\.vscode\interaktiv berättelse\Int berättelse\obj\Debug\net8.0\Int berättelse.pdb
+C:\Users\jacob.bergman\Documents\Prog 1\Interactiv berättelse\.vscode\interaktiv berättelse\Int berättelse\obj\Debug\net8.0\Int berättelse.genruntimeconfig.cache
+C:\Users\jacob.bergman\Documents\Prog 1\Interactiv berättelse\.vscode\interaktiv berättelse\Int berättelse\obj\Debug\net8.0\ref\Int berättelse.dll
