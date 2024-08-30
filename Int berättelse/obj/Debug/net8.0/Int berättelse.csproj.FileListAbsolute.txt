@@ -12,3 +12,4 @@ C:\Users\jacob.bergman\Documents\Prog 1\Interactiv berättelse\.vscode\interakti
 C:\Users\jacob.bergman\Documents\Prog 1\Interactiv berättelse\.vscode\interaktiv berättelse\Int berättelse\obj\Debug\net8.0\Int berättelse.pdb
 C:\Users\jacob.bergman\Documents\Prog 1\Interactiv berättelse\.vscode\interaktiv berättelse\Int berättelse\obj\Debug\net8.0\Int berättelse.genruntimeconfig.cache
 C:\Users\jacob.bergman\Documents\Prog 1\Interactiv berättelse\.vscode\interaktiv berättelse\Int berättelse\obj\Debug\net8.0\ref\Int berättelse.dll
+C:\Users\jacob.bergman\Documents\Prog 1\Interactiv berättelse\.vscode\interaktiv berättelse\Int berättelse\obj\Debug\net8.0\Int berättelse.sourcelink.json
