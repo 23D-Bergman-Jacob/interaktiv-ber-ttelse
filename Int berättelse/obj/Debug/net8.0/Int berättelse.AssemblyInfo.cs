@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Int berättelse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+caf684a97a7751000750f5466b567f288c1d059a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26e6f60574c3d19875aa13f21137ce6f1dd23f6d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Int berättelse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Int berättelse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

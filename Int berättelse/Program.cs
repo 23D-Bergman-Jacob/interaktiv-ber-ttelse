@@ -16,13 +16,25 @@
 while (1 ==1 )
 {
 Console.WriteLine("användarnamn");
+
 string name = Console.ReadLine();
-if (name == "Jacob")
+
+if (name.ToLower() == "Jacob")
+
 {
+
   Console.WriteLine("loggad in");
+
   break;
+
 }
+else if (name == "Jacke006")
+{System.Console.WriteLine("nja du kommer in");
+break; } 
 else
+
 { System.Console.WriteLine("nej");} }
+
 //{} alt gr 7
+
 Console.ReadLine();
