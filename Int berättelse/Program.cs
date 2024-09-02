@@ -40,55 +40,103 @@
 // Console.ReadLine();
 using System.Globalization;
 using System.Net.Sockets;
-string repeat;
-string opt1;
-string opt2;
-string klar;
-opt2 = "hjk";
-klar = "nej";
-opt1 = "h";
-repeat = "1";
-System.Console.WriteLine("det var en gång en åsna. Åsnan Älskade  ");
-while (klar == "nej"){
-if (repeat == "1"){
-System.Console.WriteLine("Grönsaker/åsnekött");
-opt1=Console.ReadLine();}
-if (opt1.ToLower() == "grönsaker") {
-System.Console.WriteLine("Åsnan gillade grönsaker speciellt morötter men en dag hade åsnan käkat upp alla morötter så han skulle ut på");
-System.Console.WriteLine("äventyr/chilla");
+using System.Runtime.InteropServices;
+//         string repeat;
+//         string opt1;
+//         string opt2;
+//         string klar;
+//         opt2 = "hjk";
+//         klar = "nej";
+//         opt1 = "h";
+//         repeat = "1";
+//         Console.WriteLine("det var en gång en åsna. Åsnan Älskade  ");
+//         while (klar == "nej")
+//         {
+//             if (repeat == "1")
+//             {
+//                 Console.WriteLine("Grönsaker/åsnekött");
+//                 opt1 = Console.ReadLine();
+//             }
+//             if (opt1.ToLower() == "grönsaker")
+//             {
+//                 Console.WriteLine("Åsnan gillade grönsaker speciellt morötter men en dag hade åsnan käkat upp alla morötter så han skulle ut på");
+//                 Console.WriteLine("äventyr/chilla");
 
-opt2 = Console.ReadLine();
-repeat = "2";}
- else if (opt1.ToLower() == "åsnekött")
- {
-if (repeat == "2") {
-System.Console.WriteLine("Den här åsnan var något av vad man kallar en lönnmördare när det kommer till andra åsner. hans största rädsla var att åsnepolisen skulle gräva i hans trädgård! Men åsnan var väldigt sugen på åsnekött ska han käka sin");
-System.Console.WriteLine("Bästa kompis/Föräldrar");
-opt2 =Console.ReadLine ();
-repeat = "3";
-}}
+//                 opt2 = Console.ReadLine();
+//                 repeat = "nej";
+//             }
+//                 if (repeat == "1")
+//                 {
+//                  if (opt1.ToLower() == "åsnekött")
+//                   {
+//                     Console.WriteLine("Den här åsnan var något av vad man kallar en cannibal när det kommer till andra åsnor. åsnan var väldigt sugen på åsnekött ska han käka sin");
+//                     Console.WriteLine("Bästa kompis/Föräldrar");
+//                     opt2 = Console.ReadLine();
+//                     repeat = "3";
+//                 }
+//                 }
 
-if (opt2.ToLower() == "äventyr") {
-  System.Console.WriteLine("Åsnan gick därför ut på stan och snodde ett stånd med alla morötter en åsna kan vilja ha i livet!!");
-klar = "ja";
-break;
+//             if (opt2.ToLower() == "äventyr")
+//             {
+//                 Console.WriteLine("Åsnan gick därför ut på stan och snodde ett stånd med alla morötter en åsna kan vilja ha i livet!!");
+//                 klar = "ja";
+//                 break;
+//             }
+//              if (opt2.ToLower() == "chilla")
+//             {
+//                 Console.WriteLine("åsnan stannade därför hemma och chillade!");
+//                 klar = "ja";
+
+//                 break;
+//             }
+
+//              if (opt2.ToLower() == "bästa kompis")
+//             {
+//                 Console.WriteLine("Åsnan tänkte på alla dom dumma saker Sven hade gjort mot honom och bestämde sig för att han skulle bli nästa veckas mat.");
+//                 klar = "ja";
+//                 break;
+//             }
+
+//             else if (opt1.ToLower() == "föräldrar")
+//             {
+//                 Console.WriteLine("Tråkigt nog kom åsnan ihåg att han käkade dom förra veckan");
+//                 klar = "ja";
+
+//             }
+//         }
+
+//         Console.ReadLine();
+//     }
+// }
+string fråga1;
+string fråga2;
+Console.WriteLine("det var en gång en åsna som hette");
+System.Console.WriteLine("bobbo/bobban");
+fråga1 = Console.ReadLine();
+if (fråga1.ToLower() == "bobbo")
+{
+
+    System.Console.WriteLine("bobbo gillade");
+    System.Console.WriteLine("räkor/mackor");
+    fråga2 = Console.ReadLine();
 }
-else if (opt2.ToLower() == "chilla") {System.Console.WriteLine("åsnan stannade därför hemma och chillade!");
-klar = "ja";
+if (fråga2.ToLower() == "mackor")
+{
+  System.Console.WriteLine("så han gjorde en ost och skinkmacka");
+} 
+if (fråga2.ToLower() == "räkor")
+{
 
-break;
+  System.Console.WriteLine("bobbo gjorde en räkmacka");
 }
- 
- if (opt2.ToLower() == "bästa kompis") {
-  System.Console.WriteLine("Åsnan tänkte på alla dom dumma saker Sven hade gjort mot honom och bestämde sig för att han skulle bli nästa veckas mat.");
- klar = "ja";
- break;}
-
-if (opt1.ToLower() == "föräldrar"){
-  System.Console.WriteLine("Skaffa hjälp!");
-  klar = "ja";
-
+if (fråga1.ToLower()== "bobban")
+{
+System.Console.WriteLine("Bobban gillade att äta");
+System.Console.WriteLine("svamp/smör");
+fråga2 = Console.ReadLine(); }
+if fråga2 == "svamp" {
+  System.Console.WriteLine("så hon gjorde en svampmacka");
 }
+if fråga2 == "smör" {
+ System.Console.WriteLine("så hon käkade lite smör");
 }
-
-Console.ReadLine();
