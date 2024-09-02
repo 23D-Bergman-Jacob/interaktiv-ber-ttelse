@@ -40,29 +40,33 @@
 // Console.ReadLine();
 using System.Globalization;
 using System.Net.Sockets;
-
+string repeat;
 string opt1;
 string opt2;
 string klar;
 opt2 = "hjk";
 klar = "nej";
+opt1 = "h";
+repeat = "1";
 System.Console.WriteLine("det var en gång en åsna. Åsnan Älskade  ");
 while (klar == "nej"){
-
-System.Console.WriteLine("Grönsaker/åsenkött");
-opt1=Console.ReadLine();
+if (repeat == "1"){
+System.Console.WriteLine("Grönsaker/åsnekött");
+opt1=Console.ReadLine();}
 if (opt1.ToLower() == "grönsaker") {
 System.Console.WriteLine("Åsnan gillade grönsaker speciellt morötter men en dag hade åsnan käkat upp alla morötter så han skulle ut på");
 System.Console.WriteLine("äventyr/chilla");
 
-opt2 = Console.ReadLine();}
+opt2 = Console.ReadLine();
+repeat = "2";}
  else if (opt1.ToLower() == "åsnekött")
  {
-
+if (repeat == "2") {
 System.Console.WriteLine("Den här åsnan var något av vad man kallar en lönnmördare när det kommer till andra åsner. hans största rädsla var att åsnepolisen skulle gräva i hans trädgård! Men åsnan var väldigt sugen på åsnekött ska han käka sin");
 System.Console.WriteLine("Bästa kompis/Föräldrar");
 opt2 =Console.ReadLine ();
-}
+repeat = "3";
+}}
 
 if (opt2.ToLower() == "äventyr") {
   System.Console.WriteLine("Åsnan gick därför ut på stan och snodde ett stånd med alla morötter en åsna kan vilja ha i livet!!");
