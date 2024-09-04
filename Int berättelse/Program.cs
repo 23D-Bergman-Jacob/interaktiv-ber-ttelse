@@ -110,6 +110,7 @@ using System.Runtime.InteropServices;
 // }
 string fråga1;
 string fråga2;
+fråga2 = "3";
 Console.WriteLine("det var en gång en åsna som hette");
 System.Console.WriteLine("bobbo/bobban");
 fråga1 = Console.ReadLine();
@@ -134,9 +135,9 @@ if (fråga1.ToLower()== "bobban")
 System.Console.WriteLine("Bobban gillade att äta");
 System.Console.WriteLine("svamp/smör");
 fråga2 = Console.ReadLine(); }
-if fråga2 == "svamp" {
+if (fråga2 == "svamp") {
   System.Console.WriteLine("så hon gjorde en svampmacka");
 }
-if fråga2 == "smör" {
+if (fråga2 == "smör") {
  System.Console.WriteLine("så hon käkade lite smör");
 }
